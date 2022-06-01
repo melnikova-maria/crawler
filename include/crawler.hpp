@@ -1,6 +1,4 @@
-//
-// Created by Мария Мельникова on 01.06.2022.
-//
+// Copyright 2021 Melnikova Maria dandelion.m@mail.ru
 
 #ifndef INCLUDE_CRAWLER_HPP_
 #define INCLUDE_CRAWLER_HPP_
