@@ -1,6 +1,4 @@
-//
-// Created by Мария Мельникова on 01.06.2022.
-//
+// Copyright 2021 Melnikova Maria dandelion.m@mail.ru
 
 #ifndef INCLUDE_THREAD_POOL_HPP_
 #define INCLUDE_THREAD_POOL_HPP_
