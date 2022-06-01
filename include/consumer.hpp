@@ -1,4 +1,4 @@
-// Created by Мария Мельникова on 01.06.2022.
+// Copyright 2021 Melnikova Maria dandelion.m@mail.ru
 
 #ifndef INCLUDE_CONSUMER_HPP_
 #define INCLUDE_CONSUMER_HPP_
