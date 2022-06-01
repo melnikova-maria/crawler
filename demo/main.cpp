@@ -1,3 +1,4 @@
+// Copyright 2021 Melnikova Maria dandelion.m@mail.ru
 #include "producer.hpp"
 #include "consumer.hpp"
 #include "crawler.hpp"
