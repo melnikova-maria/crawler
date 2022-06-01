@@ -1,6 +1,4 @@
-//
-// Created by Мария Мельникова on 01.06.2022.
-//
+// Copyright 2021 Melnikova Maria dandelion.m@mail.ru
 
 #include "crawler.hpp"
 #include "producer.hpp"
